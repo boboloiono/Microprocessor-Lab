@@ -4,5 +4,5 @@ The one-credit lab was to implement the **Whack-A-Mole game**, including the des
 
 ![image](https://github.com/boboloiono/Microprocessor-Lab/assets/62455939/298957ca-d127-4e31-9598-4a1fb13c9475)
 
-### Demo Video#
+### Demo Video
 https://youtube.com/shorts/YeocrA78vpc?feature=share
