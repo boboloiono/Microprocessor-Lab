@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3.3V Pin=D1-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Added Pin To Net: NetName=3.3V Pin=U4-5
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(222, 79, 22) New Net Color=RGB(222, 79, 22)

@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : C:\ECE315\ECE315_F23_Base\ECE315_F23_Base\ECE315.PcbDoc
+Date     : 2023/10/24
+Time     : ¤W¤È 10:26:09
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Un-Connected Pin Constraint ( (All) )
+   Violation between Un-Connected Pin Constraint: Pad LS1-M1(94.5mm,20.5mm) on Bottom Layer 
+   Violation between Un-Connected Pin Constraint: Pad LS1-M2(94.5mm,13.5mm) on Bottom Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-1(47.25mm,46mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-11(52.25mm,46mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-15(54.25mm,48.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-24(54.25mm,53mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-25(52.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-26(52.25mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-27(51.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-28(51.25mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-29(50.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-30(50.25mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-31(49.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-32(49.25mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-33(48.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-34(48.25mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-35(47.75mm,54.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-42(45.75mm,50.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-43(45.75mm,50mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-46(45.75mm,48.5mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-47(45.75mm,48mm) on Top Layer 
+   Violation between Un-Connected Pin Constraint: Pad z1-48(45.75mm,47.5mm) on Top Layer 
+Rule Violations :22
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.35mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.22mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (InNet('3.3V'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (InNet('5.0V'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=75mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Waived Violations : 0
+Time Elapsed        : 00:00:01

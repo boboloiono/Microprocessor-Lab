@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ECE315.PcbDoc]
+   Generated File[ECE315.GTO]
+   Generated File[ECE315.GTP]
+   Generated File[ECE315.GTS]
+   Generated File[ECE315.GTL]
+   Generated File[ECE315.GBL]
+   Generated File[ECE315.GBS]
+   Generated File[ECE315.GBP]
+   Generated File[ECE315.GBO]
+   Generated File[ECE315.GM]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 10:09:18 On 2023/10/24
